@@ -41,10 +41,6 @@ p {
     line-height: 1.5;
 }
 
-.bg-primary {
-    background-color: #08209a;
-}
-
 @media(min-width:768px) {
     p {
         margin: 0 0 35px;
@@ -277,16 +273,8 @@ a:focus {
 #about img {
     border-radius: 50%;
     border: 5px solid #fefefe;
-    display: block;
-    margin-right: auto;
-    margin-left: auto;
-    max-width: 350px;
+    margin: 5px;
 }
-
-.profile {
-    padding: 0 15px 30px 15px;
-}
-
 
 .portfolio-section {
     width: 100%;
